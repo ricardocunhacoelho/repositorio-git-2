@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Arquivo 2 aqui do testegit merge
+=======
+Arquivo 2 aqui do teste
+
+ver se vai modificar
+
+alteração na brach 01
+
+nao foi
+>>>>>>> ramo01
